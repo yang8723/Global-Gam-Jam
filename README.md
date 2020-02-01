@@ -1,4 +1,4 @@
-# Global-Gam-Jam
+# Global-Game-Jam
 2020 Global Game Jam with Carlos 
 
 Theme = Repair 
