@@ -15,6 +15,6 @@ Interact with the buildings by pressing the up arrow key when you're in front of
 
 To stop interacting, pressed the down arrow key
 
-+5% or -5% Money, Labour or materials of your own resources to repair the buidlings 
++5 % or -5 % Money, Labour or materials of your own resources to repair the buidlings 
 
 You lose the game when you have less than 150% of the total resources of three buildings
