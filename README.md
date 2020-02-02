@@ -7,6 +7,8 @@ The user interacts with three different buildings that produce money, labour or 
 
 Every once in awhile a natural disaster (e.g. tornado, fire) wil hit and decrease the rate at which the three buildings produce their specfic resources.
 
+The probability you will get hit by the natural disaster is shown in the top right corner
+
 Use the resources you have in the top left corner (Money, Labour and materials) to repair the buildings.
 
 Interact with the buildings by pressing the up arrow key when you're in front of the building
